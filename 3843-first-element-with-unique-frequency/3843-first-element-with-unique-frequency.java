@@ -13,9 +13,7 @@ class Solution {
         }
 
         for (int n : nums) {
-            int f = freq.get(n);
-
-            if (freqCount.get(f) == 1) {
+            if (freqCount.get(freq.get(n)) == 1) {
                 return n;
             }
         }    
