@@ -7,11 +7,13 @@
 | [0001-two-sum](https://github.com/prashantpkg777-blip/Leetcode-problems/tree/master/0001-two-sum) |
 | [0026-remove-duplicates-from-sorted-array](https://github.com/prashantpkg777-blip/Leetcode-problems/tree/master/0026-remove-duplicates-from-sorted-array) |
 | [0724-find-pivot-index](https://github.com/prashantpkg777-blip/Leetcode-problems/tree/master/0724-find-pivot-index) |
+| [3731-find-missing-elements](https://github.com/prashantpkg777-blip/Leetcode-problems/tree/master/3731-find-missing-elements) |
 | [3843-first-element-with-unique-frequency](https://github.com/prashantpkg777-blip/Leetcode-problems/tree/master/3843-first-element-with-unique-frequency) |
 ## Hash Table
 |  |
 | ------- |
 | [0001-two-sum](https://github.com/prashantpkg777-blip/Leetcode-problems/tree/master/0001-two-sum) |
+| [3731-find-missing-elements](https://github.com/prashantpkg777-blip/Leetcode-problems/tree/master/3731-find-missing-elements) |
 | [3843-first-element-with-unique-frequency](https://github.com/prashantpkg777-blip/Leetcode-problems/tree/master/3843-first-element-with-unique-frequency) |
 ## Two Pointers
 |  |
@@ -25,4 +27,8 @@
 |  |
 | ------- |
 | [0724-find-pivot-index](https://github.com/prashantpkg777-blip/Leetcode-problems/tree/master/0724-find-pivot-index) |
+## Sorting
+|  |
+| ------- |
+| [3731-find-missing-elements](https://github.com/prashantpkg777-blip/Leetcode-problems/tree/master/3731-find-missing-elements) |
 <!---LeetCode Topics End-->
