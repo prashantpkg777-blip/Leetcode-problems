@@ -14,7 +14,7 @@ class Solution {
                 ans[j][i] = matrix[i][j];
             }
         }
-    System.gc();
+    // System.gc();
     return ans;    
     }
 }
