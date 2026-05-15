@@ -8,6 +8,7 @@
 | [0026-remove-duplicates-from-sorted-array](https://github.com/prashantpkg777-blip/Leetcode-problems/tree/master/0026-remove-duplicates-from-sorted-array) |
 | [0053-maximum-subarray](https://github.com/prashantpkg777-blip/Leetcode-problems/tree/master/0053-maximum-subarray) |
 | [0724-find-pivot-index](https://github.com/prashantpkg777-blip/Leetcode-problems/tree/master/0724-find-pivot-index) |
+| [0867-transpose-matrix](https://github.com/prashantpkg777-blip/Leetcode-problems/tree/master/0867-transpose-matrix) |
 | [3731-find-missing-elements](https://github.com/prashantpkg777-blip/Leetcode-problems/tree/master/3731-find-missing-elements) |
 | [3843-first-element-with-unique-frequency](https://github.com/prashantpkg777-blip/Leetcode-problems/tree/master/3843-first-element-with-unique-frequency) |
 ## Hash Table
@@ -40,4 +41,12 @@
 |  |
 | ------- |
 | [0053-maximum-subarray](https://github.com/prashantpkg777-blip/Leetcode-problems/tree/master/0053-maximum-subarray) |
+## Matrix
+|  |
+| ------- |
+| [0867-transpose-matrix](https://github.com/prashantpkg777-blip/Leetcode-problems/tree/master/0867-transpose-matrix) |
+## Simulation
+|  |
+| ------- |
+| [0867-transpose-matrix](https://github.com/prashantpkg777-blip/Leetcode-problems/tree/master/0867-transpose-matrix) |
 <!---LeetCode Topics End-->
