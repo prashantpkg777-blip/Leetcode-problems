@@ -14,6 +14,7 @@ class Solution {
                 ans[j][i] = matrix[i][j];
             }
         }
+    System.gc();
     return ans;    
     }
 }
