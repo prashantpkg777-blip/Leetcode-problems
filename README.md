@@ -6,6 +6,7 @@
 | ------- |
 | [0001-two-sum](https://github.com/prashantpkg777-blip/Leetcode-problems/tree/master/0001-two-sum) |
 | [0026-remove-duplicates-from-sorted-array](https://github.com/prashantpkg777-blip/Leetcode-problems/tree/master/0026-remove-duplicates-from-sorted-array) |
+| [0048-rotate-image](https://github.com/prashantpkg777-blip/Leetcode-problems/tree/master/0048-rotate-image) |
 | [0053-maximum-subarray](https://github.com/prashantpkg777-blip/Leetcode-problems/tree/master/0053-maximum-subarray) |
 | [0724-find-pivot-index](https://github.com/prashantpkg777-blip/Leetcode-problems/tree/master/0724-find-pivot-index) |
 | [0867-transpose-matrix](https://github.com/prashantpkg777-blip/Leetcode-problems/tree/master/0867-transpose-matrix) |
@@ -44,9 +45,14 @@
 ## Matrix
 |  |
 | ------- |
+| [0048-rotate-image](https://github.com/prashantpkg777-blip/Leetcode-problems/tree/master/0048-rotate-image) |
 | [0867-transpose-matrix](https://github.com/prashantpkg777-blip/Leetcode-problems/tree/master/0867-transpose-matrix) |
 ## Simulation
 |  |
 | ------- |
 | [0867-transpose-matrix](https://github.com/prashantpkg777-blip/Leetcode-problems/tree/master/0867-transpose-matrix) |
+## Math
+|  |
+| ------- |
+| [0048-rotate-image](https://github.com/prashantpkg777-blip/Leetcode-problems/tree/master/0048-rotate-image) |
 <!---LeetCode Topics End-->
