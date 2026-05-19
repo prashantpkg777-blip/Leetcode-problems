@@ -9,6 +9,7 @@
 | [0048-rotate-image](https://github.com/prashantpkg777-blip/Leetcode-problems/tree/master/0048-rotate-image) |
 | [0053-maximum-subarray](https://github.com/prashantpkg777-blip/Leetcode-problems/tree/master/0053-maximum-subarray) |
 | [0054-spiral-matrix](https://github.com/prashantpkg777-blip/Leetcode-problems/tree/master/0054-spiral-matrix) |
+| [0704-binary-search](https://github.com/prashantpkg777-blip/Leetcode-problems/tree/master/0704-binary-search) |
 | [0724-find-pivot-index](https://github.com/prashantpkg777-blip/Leetcode-problems/tree/master/0724-find-pivot-index) |
 | [0867-transpose-matrix](https://github.com/prashantpkg777-blip/Leetcode-problems/tree/master/0867-transpose-matrix) |
 | [3731-find-missing-elements](https://github.com/prashantpkg777-blip/Leetcode-problems/tree/master/3731-find-missing-elements) |
@@ -58,4 +59,8 @@
 |  |
 | ------- |
 | [0048-rotate-image](https://github.com/prashantpkg777-blip/Leetcode-problems/tree/master/0048-rotate-image) |
+## Binary Search
+|  |
+| ------- |
+| [0704-binary-search](https://github.com/prashantpkg777-blip/Leetcode-problems/tree/master/0704-binary-search) |
 <!---LeetCode Topics End-->
