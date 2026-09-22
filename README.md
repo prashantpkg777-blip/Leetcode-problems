@@ -11,6 +11,7 @@
 | [0048-rotate-image](https://github.com/prashantpkg777-blip/Leetcode-problems/tree/master/0048-rotate-image) |
 | [0053-maximum-subarray](https://github.com/prashantpkg777-blip/Leetcode-problems/tree/master/0053-maximum-subarray) |
 | [0054-spiral-matrix](https://github.com/prashantpkg777-blip/Leetcode-problems/tree/master/0054-spiral-matrix) |
+| [0066-plus-one](https://github.com/prashantpkg777-blip/Leetcode-problems/tree/master/0066-plus-one) |
 | [0088-merge-sorted-array](https://github.com/prashantpkg777-blip/Leetcode-problems/tree/master/0088-merge-sorted-array) |
 | [0704-binary-search](https://github.com/prashantpkg777-blip/Leetcode-problems/tree/master/0704-binary-search) |
 | [0724-find-pivot-index](https://github.com/prashantpkg777-blip/Leetcode-problems/tree/master/0724-find-pivot-index) |
@@ -67,6 +68,7 @@
 |  |
 | ------- |
 | [0048-rotate-image](https://github.com/prashantpkg777-blip/Leetcode-problems/tree/master/0048-rotate-image) |
+| [0066-plus-one](https://github.com/prashantpkg777-blip/Leetcode-problems/tree/master/0066-plus-one) |
 | [0069-sqrtx](https://github.com/prashantpkg777-blip/Leetcode-problems/tree/master/0069-sqrtx) |
 ## Binary Search
 |  |
