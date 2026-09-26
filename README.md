@@ -17,6 +17,7 @@
 | [0169-majority-element](https://github.com/prashantpkg777-blip/Leetcode-problems/tree/master/0169-majority-element) |
 | [0283-move-zeroes](https://github.com/prashantpkg777-blip/Leetcode-problems/tree/master/0283-move-zeroes) |
 | [0349-intersection-of-two-arrays](https://github.com/prashantpkg777-blip/Leetcode-problems/tree/master/0349-intersection-of-two-arrays) |
+| [0463-island-perimeter](https://github.com/prashantpkg777-blip/Leetcode-problems/tree/master/0463-island-perimeter) |
 | [0540-single-element-in-a-sorted-array](https://github.com/prashantpkg777-blip/Leetcode-problems/tree/master/0540-single-element-in-a-sorted-array) |
 | [0704-binary-search](https://github.com/prashantpkg777-blip/Leetcode-problems/tree/master/0704-binary-search) |
 | [0724-find-pivot-index](https://github.com/prashantpkg777-blip/Leetcode-problems/tree/master/0724-find-pivot-index) |
@@ -71,6 +72,7 @@
 | ------- |
 | [0048-rotate-image](https://github.com/prashantpkg777-blip/Leetcode-problems/tree/master/0048-rotate-image) |
 | [0054-spiral-matrix](https://github.com/prashantpkg777-blip/Leetcode-problems/tree/master/0054-spiral-matrix) |
+| [0463-island-perimeter](https://github.com/prashantpkg777-blip/Leetcode-problems/tree/master/0463-island-perimeter) |
 | [0867-transpose-matrix](https://github.com/prashantpkg777-blip/Leetcode-problems/tree/master/0867-transpose-matrix) |
 ## Simulation
 |  |
@@ -98,4 +100,12 @@
 |  |
 | ------- |
 | [0169-majority-element](https://github.com/prashantpkg777-blip/Leetcode-problems/tree/master/0169-majority-element) |
+## Depth-First Search
+|  |
+| ------- |
+| [0463-island-perimeter](https://github.com/prashantpkg777-blip/Leetcode-problems/tree/master/0463-island-perimeter) |
+## Breadth-First Search
+|  |
+| ------- |
+| [0463-island-perimeter](https://github.com/prashantpkg777-blip/Leetcode-problems/tree/master/0463-island-perimeter) |
 <!---LeetCode Topics End-->
