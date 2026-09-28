@@ -18,6 +18,7 @@
 | [0283-move-zeroes](https://github.com/prashantpkg777-blip/Leetcode-problems/tree/master/0283-move-zeroes) |
 | [0349-intersection-of-two-arrays](https://github.com/prashantpkg777-blip/Leetcode-problems/tree/master/0349-intersection-of-two-arrays) |
 | [0463-island-perimeter](https://github.com/prashantpkg777-blip/Leetcode-problems/tree/master/0463-island-perimeter) |
+| [0506-relative-ranks](https://github.com/prashantpkg777-blip/Leetcode-problems/tree/master/0506-relative-ranks) |
 | [0540-single-element-in-a-sorted-array](https://github.com/prashantpkg777-blip/Leetcode-problems/tree/master/0540-single-element-in-a-sorted-array) |
 | [0704-binary-search](https://github.com/prashantpkg777-blip/Leetcode-problems/tree/master/0704-binary-search) |
 | [0724-find-pivot-index](https://github.com/prashantpkg777-blip/Leetcode-problems/tree/master/0724-find-pivot-index) |
@@ -56,6 +57,7 @@
 | [0088-merge-sorted-array](https://github.com/prashantpkg777-blip/Leetcode-problems/tree/master/0088-merge-sorted-array) |
 | [0169-majority-element](https://github.com/prashantpkg777-blip/Leetcode-problems/tree/master/0169-majority-element) |
 | [0349-intersection-of-two-arrays](https://github.com/prashantpkg777-blip/Leetcode-problems/tree/master/0349-intersection-of-two-arrays) |
+| [0506-relative-ranks](https://github.com/prashantpkg777-blip/Leetcode-problems/tree/master/0506-relative-ranks) |
 | [3731-find-missing-elements](https://github.com/prashantpkg777-blip/Leetcode-problems/tree/master/3731-find-missing-elements) |
 ## Divide and Conquer
 |  |
@@ -108,4 +110,8 @@
 |  |
 | ------- |
 | [0463-island-perimeter](https://github.com/prashantpkg777-blip/Leetcode-problems/tree/master/0463-island-perimeter) |
+## Heap (Priority Queue)
+|  |
+| ------- |
+| [0506-relative-ranks](https://github.com/prashantpkg777-blip/Leetcode-problems/tree/master/0506-relative-ranks) |
 <!---LeetCode Topics End-->
