@@ -2,7 +2,7 @@ import java.util.*;
 
 class Solution {
     public int distributeCandies(int[] candyType) {
-        HashSet<Integer> set = new HashSet<>();
+        Set<Integer> set = new HashSet<>();
 
         // store unique candy
         for(int candy : candyType){
