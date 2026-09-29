@@ -22,6 +22,7 @@
 | [0463-island-perimeter](https://github.com/prashantpkg777-blip/Leetcode-problems/tree/master/0463-island-perimeter) |
 | [0506-relative-ranks](https://github.com/prashantpkg777-blip/Leetcode-problems/tree/master/0506-relative-ranks) |
 | [0540-single-element-in-a-sorted-array](https://github.com/prashantpkg777-blip/Leetcode-problems/tree/master/0540-single-element-in-a-sorted-array) |
+| [0575-distribute-candies](https://github.com/prashantpkg777-blip/Leetcode-problems/tree/master/0575-distribute-candies) |
 | [0704-binary-search](https://github.com/prashantpkg777-blip/Leetcode-problems/tree/master/0704-binary-search) |
 | [0724-find-pivot-index](https://github.com/prashantpkg777-blip/Leetcode-problems/tree/master/0724-find-pivot-index) |
 | [0852-peak-index-in-a-mountain-array](https://github.com/prashantpkg777-blip/Leetcode-problems/tree/master/0852-peak-index-in-a-mountain-array) |
@@ -36,6 +37,7 @@
 | [0001-two-sum](https://github.com/prashantpkg777-blip/Leetcode-problems/tree/master/0001-two-sum) |
 | [0169-majority-element](https://github.com/prashantpkg777-blip/Leetcode-problems/tree/master/0169-majority-element) |
 | [0349-intersection-of-two-arrays](https://github.com/prashantpkg777-blip/Leetcode-problems/tree/master/0349-intersection-of-two-arrays) |
+| [0575-distribute-candies](https://github.com/prashantpkg777-blip/Leetcode-problems/tree/master/0575-distribute-candies) |
 | [3731-find-missing-elements](https://github.com/prashantpkg777-blip/Leetcode-problems/tree/master/3731-find-missing-elements) |
 | [3843-first-element-with-unique-frequency](https://github.com/prashantpkg777-blip/Leetcode-problems/tree/master/3843-first-element-with-unique-frequency) |
 ## Two Pointers
