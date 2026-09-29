@@ -27,6 +27,7 @@
 | [0852-peak-index-in-a-mountain-array](https://github.com/prashantpkg777-blip/Leetcode-problems/tree/master/0852-peak-index-in-a-mountain-array) |
 | [0867-transpose-matrix](https://github.com/prashantpkg777-blip/Leetcode-problems/tree/master/0867-transpose-matrix) |
 | [1929-concatenation-of-array](https://github.com/prashantpkg777-blip/Leetcode-problems/tree/master/1929-concatenation-of-array) |
+| [2643-row-with-maximum-ones](https://github.com/prashantpkg777-blip/Leetcode-problems/tree/master/2643-row-with-maximum-ones) |
 | [3731-find-missing-elements](https://github.com/prashantpkg777-blip/Leetcode-problems/tree/master/3731-find-missing-elements) |
 | [3843-first-element-with-unique-frequency](https://github.com/prashantpkg777-blip/Leetcode-problems/tree/master/3843-first-element-with-unique-frequency) |
 ## Hash Table
@@ -81,6 +82,7 @@
 | [0240-search-a-2d-matrix-ii](https://github.com/prashantpkg777-blip/Leetcode-problems/tree/master/0240-search-a-2d-matrix-ii) |
 | [0463-island-perimeter](https://github.com/prashantpkg777-blip/Leetcode-problems/tree/master/0463-island-perimeter) |
 | [0867-transpose-matrix](https://github.com/prashantpkg777-blip/Leetcode-problems/tree/master/0867-transpose-matrix) |
+| [2643-row-with-maximum-ones](https://github.com/prashantpkg777-blip/Leetcode-problems/tree/master/2643-row-with-maximum-ones) |
 ## Simulation
 |  |
 | ------- |
