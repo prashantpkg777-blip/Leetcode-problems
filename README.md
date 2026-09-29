@@ -23,6 +23,7 @@
 | [0506-relative-ranks](https://github.com/prashantpkg777-blip/Leetcode-problems/tree/master/0506-relative-ranks) |
 | [0540-single-element-in-a-sorted-array](https://github.com/prashantpkg777-blip/Leetcode-problems/tree/master/0540-single-element-in-a-sorted-array) |
 | [0575-distribute-candies](https://github.com/prashantpkg777-blip/Leetcode-problems/tree/master/0575-distribute-candies) |
+| [0682-baseball-game](https://github.com/prashantpkg777-blip/Leetcode-problems/tree/master/0682-baseball-game) |
 | [0704-binary-search](https://github.com/prashantpkg777-blip/Leetcode-problems/tree/master/0704-binary-search) |
 | [0724-find-pivot-index](https://github.com/prashantpkg777-blip/Leetcode-problems/tree/master/0724-find-pivot-index) |
 | [0852-peak-index-in-a-mountain-array](https://github.com/prashantpkg777-blip/Leetcode-problems/tree/master/0852-peak-index-in-a-mountain-array) |
@@ -89,6 +90,7 @@
 |  |
 | ------- |
 | [0054-spiral-matrix](https://github.com/prashantpkg777-blip/Leetcode-problems/tree/master/0054-spiral-matrix) |
+| [0682-baseball-game](https://github.com/prashantpkg777-blip/Leetcode-problems/tree/master/0682-baseball-game) |
 | [0867-transpose-matrix](https://github.com/prashantpkg777-blip/Leetcode-problems/tree/master/0867-transpose-matrix) |
 | [1929-concatenation-of-array](https://github.com/prashantpkg777-blip/Leetcode-problems/tree/master/1929-concatenation-of-array) |
 ## Math
@@ -125,4 +127,8 @@
 |  |
 | ------- |
 | [0506-relative-ranks](https://github.com/prashantpkg777-blip/Leetcode-problems/tree/master/0506-relative-ranks) |
+## Stack
+|  |
+| ------- |
+| [0682-baseball-game](https://github.com/prashantpkg777-blip/Leetcode-problems/tree/master/0682-baseball-game) |
 <!---LeetCode Topics End-->
