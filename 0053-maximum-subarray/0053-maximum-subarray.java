@@ -1,18 +1,14 @@
+import java.util.*;
+
 class Solution {
     public int maxSubArray(int[] nums) {
-        int sum = 0;
-        int maxi = Integer.MIN_VALUE;
+        int currSum = nums[0];
+        int maxSum = nums[0];
 
-        for(int i=0; i<nums.length; i++){
-            // Step 1: Sum
-            sum = sum + nums[i];
-            // Step 2: update maxi
-            maxi = Math.max(maxi,sum);
-            // Step 3: check sum is not negative
-            if(sum < 0){
-                sum = 0;
-            }
+        for(int i =1; i < nums.length; i++){
+            currSum = Math.max(nums[i], currSum + nums[i]);
+            maxSum = Math.max(maxSum, currSum);
         }
-        return maxi;
+        return maxSum;
     }
 }
