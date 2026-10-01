@@ -95,6 +95,7 @@
 | [0054-spiral-matrix](https://github.com/prashantpkg777-blip/Leetcode-problems/tree/master/0054-spiral-matrix) |
 | [0682-baseball-game](https://github.com/prashantpkg777-blip/Leetcode-problems/tree/master/0682-baseball-game) |
 | [0867-transpose-matrix](https://github.com/prashantpkg777-blip/Leetcode-problems/tree/master/0867-transpose-matrix) |
+| [1910-remove-all-occurrences-of-a-substring](https://github.com/prashantpkg777-blip/Leetcode-problems/tree/master/1910-remove-all-occurrences-of-a-substring) |
 | [1929-concatenation-of-array](https://github.com/prashantpkg777-blip/Leetcode-problems/tree/master/1929-concatenation-of-array) |
 ## Math
 |  |
@@ -134,10 +135,12 @@
 |  |
 | ------- |
 | [0682-baseball-game](https://github.com/prashantpkg777-blip/Leetcode-problems/tree/master/0682-baseball-game) |
+| [1910-remove-all-occurrences-of-a-substring](https://github.com/prashantpkg777-blip/Leetcode-problems/tree/master/1910-remove-all-occurrences-of-a-substring) |
 ## String
 |  |
 | ------- |
 | [0151-reverse-words-in-a-string](https://github.com/prashantpkg777-blip/Leetcode-problems/tree/master/0151-reverse-words-in-a-string) |
+| [1910-remove-all-occurrences-of-a-substring](https://github.com/prashantpkg777-blip/Leetcode-problems/tree/master/1910-remove-all-occurrences-of-a-substring) |
 ## Greedy
 |  |
 | ------- |
