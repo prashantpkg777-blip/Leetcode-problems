@@ -39,6 +39,7 @@
 | [0001-two-sum](https://github.com/prashantpkg777-blip/Leetcode-problems/tree/master/0001-two-sum) |
 | [0169-majority-element](https://github.com/prashantpkg777-blip/Leetcode-problems/tree/master/0169-majority-element) |
 | [0349-intersection-of-two-arrays](https://github.com/prashantpkg777-blip/Leetcode-problems/tree/master/0349-intersection-of-two-arrays) |
+| [0567-permutation-in-string](https://github.com/prashantpkg777-blip/Leetcode-problems/tree/master/0567-permutation-in-string) |
 | [0575-distribute-candies](https://github.com/prashantpkg777-blip/Leetcode-problems/tree/master/0575-distribute-candies) |
 | [3731-find-missing-elements](https://github.com/prashantpkg777-blip/Leetcode-problems/tree/master/3731-find-missing-elements) |
 | [3843-first-element-with-unique-frequency](https://github.com/prashantpkg777-blip/Leetcode-problems/tree/master/3843-first-element-with-unique-frequency) |
@@ -51,6 +52,7 @@
 | [0151-reverse-words-in-a-string](https://github.com/prashantpkg777-blip/Leetcode-problems/tree/master/0151-reverse-words-in-a-string) |
 | [0283-move-zeroes](https://github.com/prashantpkg777-blip/Leetcode-problems/tree/master/0283-move-zeroes) |
 | [0349-intersection-of-two-arrays](https://github.com/prashantpkg777-blip/Leetcode-problems/tree/master/0349-intersection-of-two-arrays) |
+| [0567-permutation-in-string](https://github.com/prashantpkg777-blip/Leetcode-problems/tree/master/0567-permutation-in-string) |
 ## Counting
 |  |
 | ------- |
@@ -140,9 +142,14 @@
 |  |
 | ------- |
 | [0151-reverse-words-in-a-string](https://github.com/prashantpkg777-blip/Leetcode-problems/tree/master/0151-reverse-words-in-a-string) |
+| [0567-permutation-in-string](https://github.com/prashantpkg777-blip/Leetcode-problems/tree/master/0567-permutation-in-string) |
 | [1910-remove-all-occurrences-of-a-substring](https://github.com/prashantpkg777-blip/Leetcode-problems/tree/master/1910-remove-all-occurrences-of-a-substring) |
 ## Greedy
 |  |
 | ------- |
 | [0011-container-with-most-water](https://github.com/prashantpkg777-blip/Leetcode-problems/tree/master/0011-container-with-most-water) |
+## Sliding Window
+|  |
+| ------- |
+| [0567-permutation-in-string](https://github.com/prashantpkg777-blip/Leetcode-problems/tree/master/0567-permutation-in-string) |
 <!---LeetCode Topics End-->
