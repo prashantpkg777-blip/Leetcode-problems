@@ -52,6 +52,7 @@
 | [0151-reverse-words-in-a-string](https://github.com/prashantpkg777-blip/Leetcode-problems/tree/master/0151-reverse-words-in-a-string) |
 | [0283-move-zeroes](https://github.com/prashantpkg777-blip/Leetcode-problems/tree/master/0283-move-zeroes) |
 | [0349-intersection-of-two-arrays](https://github.com/prashantpkg777-blip/Leetcode-problems/tree/master/0349-intersection-of-two-arrays) |
+| [0443-string-compression](https://github.com/prashantpkg777-blip/Leetcode-problems/tree/master/0443-string-compression) |
 | [0567-permutation-in-string](https://github.com/prashantpkg777-blip/Leetcode-problems/tree/master/0567-permutation-in-string) |
 ## Counting
 |  |
@@ -143,6 +144,7 @@
 |  |
 | ------- |
 | [0151-reverse-words-in-a-string](https://github.com/prashantpkg777-blip/Leetcode-problems/tree/master/0151-reverse-words-in-a-string) |
+| [0443-string-compression](https://github.com/prashantpkg777-blip/Leetcode-problems/tree/master/0443-string-compression) |
 | [0567-permutation-in-string](https://github.com/prashantpkg777-blip/Leetcode-problems/tree/master/0567-permutation-in-string) |
 | [1047-remove-all-adjacent-duplicates-in-string](https://github.com/prashantpkg777-blip/Leetcode-problems/tree/master/1047-remove-all-adjacent-duplicates-in-string) |
 | [1910-remove-all-occurrences-of-a-substring](https://github.com/prashantpkg777-blip/Leetcode-problems/tree/master/1910-remove-all-occurrences-of-a-substring) |
