@@ -137,12 +137,14 @@
 |  |
 | ------- |
 | [0682-baseball-game](https://github.com/prashantpkg777-blip/Leetcode-problems/tree/master/0682-baseball-game) |
+| [1047-remove-all-adjacent-duplicates-in-string](https://github.com/prashantpkg777-blip/Leetcode-problems/tree/master/1047-remove-all-adjacent-duplicates-in-string) |
 | [1910-remove-all-occurrences-of-a-substring](https://github.com/prashantpkg777-blip/Leetcode-problems/tree/master/1910-remove-all-occurrences-of-a-substring) |
 ## String
 |  |
 | ------- |
 | [0151-reverse-words-in-a-string](https://github.com/prashantpkg777-blip/Leetcode-problems/tree/master/0151-reverse-words-in-a-string) |
 | [0567-permutation-in-string](https://github.com/prashantpkg777-blip/Leetcode-problems/tree/master/0567-permutation-in-string) |
+| [1047-remove-all-adjacent-duplicates-in-string](https://github.com/prashantpkg777-blip/Leetcode-problems/tree/master/1047-remove-all-adjacent-duplicates-in-string) |
 | [1910-remove-all-occurrences-of-a-substring](https://github.com/prashantpkg777-blip/Leetcode-problems/tree/master/1910-remove-all-occurrences-of-a-substring) |
 ## Greedy
 |  |
