@@ -158,4 +158,8 @@
 |  |
 | ------- |
 | [0567-permutation-in-string](https://github.com/prashantpkg777-blip/Leetcode-problems/tree/master/0567-permutation-in-string) |
+## Ternary Search
+|  |
+| ------- |
+| [0852-peak-index-in-a-mountain-array](https://github.com/prashantpkg777-blip/Leetcode-problems/tree/master/0852-peak-index-in-a-mountain-array) |
 <!---LeetCode Topics End-->
