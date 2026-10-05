@@ -31,6 +31,7 @@
 | [0852-peak-index-in-a-mountain-array](https://github.com/prashantpkg777-blip/Leetcode-problems/tree/master/0852-peak-index-in-a-mountain-array) |
 | [0867-transpose-matrix](https://github.com/prashantpkg777-blip/Leetcode-problems/tree/master/0867-transpose-matrix) |
 | [1929-concatenation-of-array](https://github.com/prashantpkg777-blip/Leetcode-problems/tree/master/1929-concatenation-of-array) |
+| [2226-maximum-candies-allocated-to-k-children](https://github.com/prashantpkg777-blip/Leetcode-problems/tree/master/2226-maximum-candies-allocated-to-k-children) |
 | [2643-row-with-maximum-ones](https://github.com/prashantpkg777-blip/Leetcode-problems/tree/master/2643-row-with-maximum-ones) |
 | [3731-find-missing-elements](https://github.com/prashantpkg777-blip/Leetcode-problems/tree/master/3731-find-missing-elements) |
 | [3843-first-element-with-unique-frequency](https://github.com/prashantpkg777-blip/Leetcode-problems/tree/master/3843-first-element-with-unique-frequency) |
@@ -120,6 +121,7 @@
 | [0540-single-element-in-a-sorted-array](https://github.com/prashantpkg777-blip/Leetcode-problems/tree/master/0540-single-element-in-a-sorted-array) |
 | [0704-binary-search](https://github.com/prashantpkg777-blip/Leetcode-problems/tree/master/0704-binary-search) |
 | [0852-peak-index-in-a-mountain-array](https://github.com/prashantpkg777-blip/Leetcode-problems/tree/master/0852-peak-index-in-a-mountain-array) |
+| [2226-maximum-candies-allocated-to-k-children](https://github.com/prashantpkg777-blip/Leetcode-problems/tree/master/2226-maximum-candies-allocated-to-k-children) |
 ## Boyer–Moore Majority Vote Algorithm
 |  |
 | ------- |
