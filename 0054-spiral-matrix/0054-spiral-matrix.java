@@ -1,41 +1,42 @@
 class Solution {
     public List<Integer> spiralOrder(int[][] matrix) {
-        List<Integer> result = new ArrayList<>();
+        List<Integer> ans = new ArrayList<>();
 
-        int m = matrix.length;
-        int n = matrix[0].length;
+        int top = 0;
+        int bottom = matrix.length-1;
+        int left = 0;
+        int right = matrix[0].length-1;
 
-        int startRow = 0;
-        int endRow = m-1;
-        int startCol = 0;
-        int endCol = n-1;
+        while(top <= bottom && left <= right){
+            // left to right
+            for(int i = left; i <= right; i++){
+                ans.add(matrix[top][i]);
+            }
+            top++;
 
-        while(startRow <= endRow && startCol <= endCol){
-            // row -> left to right
-            for(int col=startCol; col<=endCol; col++){
-                result.add(matrix[startRow][col]);
+            // top to bottom
+            for(int j = top; j <= bottom ; j++){
+                ans.add(matrix[j][right]);
             }
-            startRow++;
-            // col -> top to bottom
-            for(int row=startRow; row<=endRow; row++){
-                result.add(matrix[row][endCol]);
+            right--;
+
+            // right to left
+            if(top <= bottom){
+                for(int i = right; i >= left; i--){
+                    ans.add(matrix[bottom][i]);
+                }
+                bottom--;
             }
-            endCol--;
-            // row -> right to left 
-            if(startRow <= endRow){
-            for(int col=endCol; col>=startCol; col--){
-                result.add(matrix[endRow][col]);
-            }
-            endRow--;
-            }
-            // col -> bottom to top
-            if(startCol <= endCol){
-            for(int row=endRow; row>=startRow; row--){
-                result.add(matrix[row][startCol]);
-            }
-            startCol++;
+
+            // bottom to top
+            if(left <= right){
+                for(int j = bottom; j >= top; j--){
+                    ans.add(matrix[j][left]);
+
+                }
+                left++;
             }
         }
-        return result;
+        return ans;
     }
 }
