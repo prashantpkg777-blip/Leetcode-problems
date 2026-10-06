@@ -14,6 +14,7 @@
 | [0054-spiral-matrix](https://github.com/prashantpkg777-blip/Leetcode-problems/tree/master/0054-spiral-matrix) |
 | [0066-plus-one](https://github.com/prashantpkg777-blip/Leetcode-problems/tree/master/0066-plus-one) |
 | [0074-search-a-2d-matrix](https://github.com/prashantpkg777-blip/Leetcode-problems/tree/master/0074-search-a-2d-matrix) |
+| [0075-sort-colors](https://github.com/prashantpkg777-blip/Leetcode-problems/tree/master/0075-sort-colors) |
 | [0088-merge-sorted-array](https://github.com/prashantpkg777-blip/Leetcode-problems/tree/master/0088-merge-sorted-array) |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/prashantpkg777-blip/Leetcode-problems/tree/master/0121-best-time-to-buy-and-sell-stock) |
 | [0169-majority-element](https://github.com/prashantpkg777-blip/Leetcode-problems/tree/master/0169-majority-element) |
@@ -50,6 +51,7 @@
 | ------- |
 | [0011-container-with-most-water](https://github.com/prashantpkg777-blip/Leetcode-problems/tree/master/0011-container-with-most-water) |
 | [0026-remove-duplicates-from-sorted-array](https://github.com/prashantpkg777-blip/Leetcode-problems/tree/master/0026-remove-duplicates-from-sorted-array) |
+| [0075-sort-colors](https://github.com/prashantpkg777-blip/Leetcode-problems/tree/master/0075-sort-colors) |
 | [0088-merge-sorted-array](https://github.com/prashantpkg777-blip/Leetcode-problems/tree/master/0088-merge-sorted-array) |
 | [0151-reverse-words-in-a-string](https://github.com/prashantpkg777-blip/Leetcode-problems/tree/master/0151-reverse-words-in-a-string) |
 | [0283-move-zeroes](https://github.com/prashantpkg777-blip/Leetcode-problems/tree/master/0283-move-zeroes) |
@@ -69,6 +71,7 @@
 ## Sorting
 |  |
 | ------- |
+| [0075-sort-colors](https://github.com/prashantpkg777-blip/Leetcode-problems/tree/master/0075-sort-colors) |
 | [0088-merge-sorted-array](https://github.com/prashantpkg777-blip/Leetcode-problems/tree/master/0088-merge-sorted-array) |
 | [0169-majority-element](https://github.com/prashantpkg777-blip/Leetcode-problems/tree/master/0169-majority-element) |
 | [0349-intersection-of-two-arrays](https://github.com/prashantpkg777-blip/Leetcode-problems/tree/master/0349-intersection-of-two-arrays) |
@@ -164,4 +167,12 @@
 |  |
 | ------- |
 | [0852-peak-index-in-a-mountain-array](https://github.com/prashantpkg777-blip/Leetcode-problems/tree/master/0852-peak-index-in-a-mountain-array) |
+## Quicksort
+|  |
+| ------- |
+| [0075-sort-colors](https://github.com/prashantpkg777-blip/Leetcode-problems/tree/master/0075-sort-colors) |
+## Bubble Sort
+|  |
+| ------- |
+| [0075-sort-colors](https://github.com/prashantpkg777-blip/Leetcode-problems/tree/master/0075-sort-colors) |
 <!---LeetCode Topics End-->
