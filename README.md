@@ -32,6 +32,7 @@
 | [0852-peak-index-in-a-mountain-array](https://github.com/prashantpkg777-blip/Leetcode-problems/tree/master/0852-peak-index-in-a-mountain-array) |
 | [0867-transpose-matrix](https://github.com/prashantpkg777-blip/Leetcode-problems/tree/master/0867-transpose-matrix) |
 | [1929-concatenation-of-array](https://github.com/prashantpkg777-blip/Leetcode-problems/tree/master/1929-concatenation-of-array) |
+| [1985-find-the-kth-largest-integer-in-the-array](https://github.com/prashantpkg777-blip/Leetcode-problems/tree/master/1985-find-the-kth-largest-integer-in-the-array) |
 | [2226-maximum-candies-allocated-to-k-children](https://github.com/prashantpkg777-blip/Leetcode-problems/tree/master/2226-maximum-candies-allocated-to-k-children) |
 | [2643-row-with-maximum-ones](https://github.com/prashantpkg777-blip/Leetcode-problems/tree/master/2643-row-with-maximum-ones) |
 | [3731-find-missing-elements](https://github.com/prashantpkg777-blip/Leetcode-problems/tree/master/3731-find-missing-elements) |
@@ -76,6 +77,7 @@
 | [0169-majority-element](https://github.com/prashantpkg777-blip/Leetcode-problems/tree/master/0169-majority-element) |
 | [0349-intersection-of-two-arrays](https://github.com/prashantpkg777-blip/Leetcode-problems/tree/master/0349-intersection-of-two-arrays) |
 | [0506-relative-ranks](https://github.com/prashantpkg777-blip/Leetcode-problems/tree/master/0506-relative-ranks) |
+| [1985-find-the-kth-largest-integer-in-the-array](https://github.com/prashantpkg777-blip/Leetcode-problems/tree/master/1985-find-the-kth-largest-integer-in-the-array) |
 | [3731-find-missing-elements](https://github.com/prashantpkg777-blip/Leetcode-problems/tree/master/3731-find-missing-elements) |
 ## Divide and Conquer
 |  |
@@ -83,6 +85,7 @@
 | [0053-maximum-subarray](https://github.com/prashantpkg777-blip/Leetcode-problems/tree/master/0053-maximum-subarray) |
 | [0169-majority-element](https://github.com/prashantpkg777-blip/Leetcode-problems/tree/master/0169-majority-element) |
 | [0240-search-a-2d-matrix-ii](https://github.com/prashantpkg777-blip/Leetcode-problems/tree/master/0240-search-a-2d-matrix-ii) |
+| [1985-find-the-kth-largest-integer-in-the-array](https://github.com/prashantpkg777-blip/Leetcode-problems/tree/master/1985-find-the-kth-largest-integer-in-the-array) |
 ## Dynamic Programming
 |  |
 | ------- |
@@ -141,6 +144,7 @@
 |  |
 | ------- |
 | [0506-relative-ranks](https://github.com/prashantpkg777-blip/Leetcode-problems/tree/master/0506-relative-ranks) |
+| [1985-find-the-kth-largest-integer-in-the-array](https://github.com/prashantpkg777-blip/Leetcode-problems/tree/master/1985-find-the-kth-largest-integer-in-the-array) |
 ## Stack
 |  |
 | ------- |
@@ -155,6 +159,7 @@
 | [0567-permutation-in-string](https://github.com/prashantpkg777-blip/Leetcode-problems/tree/master/0567-permutation-in-string) |
 | [1047-remove-all-adjacent-duplicates-in-string](https://github.com/prashantpkg777-blip/Leetcode-problems/tree/master/1047-remove-all-adjacent-duplicates-in-string) |
 | [1910-remove-all-occurrences-of-a-substring](https://github.com/prashantpkg777-blip/Leetcode-problems/tree/master/1910-remove-all-occurrences-of-a-substring) |
+| [1985-find-the-kth-largest-integer-in-the-array](https://github.com/prashantpkg777-blip/Leetcode-problems/tree/master/1985-find-the-kth-largest-integer-in-the-array) |
 ## Greedy
 |  |
 | ------- |
@@ -175,4 +180,8 @@
 |  |
 | ------- |
 | [0075-sort-colors](https://github.com/prashantpkg777-blip/Leetcode-problems/tree/master/0075-sort-colors) |
+## Quickselect
+|  |
+| ------- |
+| [1985-find-the-kth-largest-integer-in-the-array](https://github.com/prashantpkg777-blip/Leetcode-problems/tree/master/1985-find-the-kth-largest-integer-in-the-array) |
 <!---LeetCode Topics End-->
