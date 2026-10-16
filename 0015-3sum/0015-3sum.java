@@ -5,6 +5,7 @@ class Solution {
         Arrays.sort(nums);
 
         for(int i =0; i<n-2; i++){
+            // avoid duplicate of i
            if(i >0 && nums[i] == nums[i-1]){
             continue;
            }
@@ -21,10 +22,12 @@ class Solution {
                 left++;
                 right--;
 
+                // avoid duplicate of left
                 while(left < right && nums[left] == nums[left -1]){
                     left++;
                 }
 
+                // avoid duplicate of right
                 while(left < right && nums[right] == nums[right+1]){
                     right--;
                 }
