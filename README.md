@@ -6,6 +6,7 @@
 | ------- |
 | [0001-two-sum](https://github.com/prashantpkg777-blip/Leetcode-problems/tree/master/0001-two-sum) |
 | [0011-container-with-most-water](https://github.com/prashantpkg777-blip/Leetcode-problems/tree/master/0011-container-with-most-water) |
+| [0015-3sum](https://github.com/prashantpkg777-blip/Leetcode-problems/tree/master/0015-3sum) |
 | [0026-remove-duplicates-from-sorted-array](https://github.com/prashantpkg777-blip/Leetcode-problems/tree/master/0026-remove-duplicates-from-sorted-array) |
 | [0033-search-in-rotated-sorted-array](https://github.com/prashantpkg777-blip/Leetcode-problems/tree/master/0033-search-in-rotated-sorted-array) |
 | [0035-search-insert-position](https://github.com/prashantpkg777-blip/Leetcode-problems/tree/master/0035-search-insert-position) |
@@ -54,6 +55,7 @@
 |  |
 | ------- |
 | [0011-container-with-most-water](https://github.com/prashantpkg777-blip/Leetcode-problems/tree/master/0011-container-with-most-water) |
+| [0015-3sum](https://github.com/prashantpkg777-blip/Leetcode-problems/tree/master/0015-3sum) |
 | [0026-remove-duplicates-from-sorted-array](https://github.com/prashantpkg777-blip/Leetcode-problems/tree/master/0026-remove-duplicates-from-sorted-array) |
 | [0075-sort-colors](https://github.com/prashantpkg777-blip/Leetcode-problems/tree/master/0075-sort-colors) |
 | [0088-merge-sorted-array](https://github.com/prashantpkg777-blip/Leetcode-problems/tree/master/0088-merge-sorted-array) |
@@ -77,6 +79,7 @@
 ## Sorting
 |  |
 | ------- |
+| [0015-3sum](https://github.com/prashantpkg777-blip/Leetcode-problems/tree/master/0015-3sum) |
 | [0075-sort-colors](https://github.com/prashantpkg777-blip/Leetcode-problems/tree/master/0075-sort-colors) |
 | [0088-merge-sorted-array](https://github.com/prashantpkg777-blip/Leetcode-problems/tree/master/0088-merge-sorted-array) |
 | [0169-majority-element](https://github.com/prashantpkg777-blip/Leetcode-problems/tree/master/0169-majority-element) |
