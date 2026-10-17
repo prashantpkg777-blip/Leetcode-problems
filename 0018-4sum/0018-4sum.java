@@ -16,36 +16,29 @@ class Solution {
                 // Avoid duplicates for the second number
                 if (j > i + 1 && nums[j] == nums[j - 1]) continue;
 
-                int left = j + 1;
-                int right = n - 1;
+                int k = j + 1;
+                int l = n - 1;
 
-                while (left < right) {
+                while (k < l) {
                     long sum = (long) nums[i] + nums[j]
-                             + nums[left] + nums[right];
+                             + nums[k] + nums[l];
 
                     if (sum == target) {
                         ans.add(Arrays.asList(
-                            nums[i], nums[j], nums[left], nums[right]
+                            nums[i], nums[j], nums[k], nums[l]
                         ));
 
-                        // Skip duplicates before moving pointers
-                        while (left < right &&
-                               nums[left] == nums[left + 1]) {
-                            left++;
-                        }
+                        // Skip duplicates
+                        while (k < l && nums[k] == nums[k + 1]) k++;
+                        while (k < l && nums[l] == nums[l - 1]) l--;
 
-                        while (left < right &&
-                               nums[right] == nums[right - 1]) {
-                            right--;
-                        }
-
-                        left++;
-                        right--;
+                        k++;
+                        l--;
 
                     } else if (sum < target) {
-                        left++;
+                        k++;
                     } else {
-                        right--;
+                        l--;
                     }
                 }
             }
