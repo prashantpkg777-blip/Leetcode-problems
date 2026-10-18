@@ -40,6 +40,7 @@
 | [1985-find-the-kth-largest-integer-in-the-array](https://github.com/prashantpkg777-blip/Leetcode-problems/tree/master/1985-find-the-kth-largest-integer-in-the-array) |
 | [2226-maximum-candies-allocated-to-k-children](https://github.com/prashantpkg777-blip/Leetcode-problems/tree/master/2226-maximum-candies-allocated-to-k-children) |
 | [2643-row-with-maximum-ones](https://github.com/prashantpkg777-blip/Leetcode-problems/tree/master/2643-row-with-maximum-ones) |
+| [2965-find-missing-and-repeated-values](https://github.com/prashantpkg777-blip/Leetcode-problems/tree/master/2965-find-missing-and-repeated-values) |
 | [3731-find-missing-elements](https://github.com/prashantpkg777-blip/Leetcode-problems/tree/master/3731-find-missing-elements) |
 | [3843-first-element-with-unique-frequency](https://github.com/prashantpkg777-blip/Leetcode-problems/tree/master/3843-first-element-with-unique-frequency) |
 ## Hash Table
@@ -51,6 +52,7 @@
 | [0560-subarray-sum-equals-k](https://github.com/prashantpkg777-blip/Leetcode-problems/tree/master/0560-subarray-sum-equals-k) |
 | [0567-permutation-in-string](https://github.com/prashantpkg777-blip/Leetcode-problems/tree/master/0567-permutation-in-string) |
 | [0575-distribute-candies](https://github.com/prashantpkg777-blip/Leetcode-problems/tree/master/0575-distribute-candies) |
+| [2965-find-missing-and-repeated-values](https://github.com/prashantpkg777-blip/Leetcode-problems/tree/master/2965-find-missing-and-repeated-values) |
 | [3731-find-missing-elements](https://github.com/prashantpkg777-blip/Leetcode-problems/tree/master/3731-find-missing-elements) |
 | [3843-first-element-with-unique-frequency](https://github.com/prashantpkg777-blip/Leetcode-problems/tree/master/3843-first-element-with-unique-frequency) |
 ## Two Pointers
@@ -114,6 +116,7 @@
 | [0463-island-perimeter](https://github.com/prashantpkg777-blip/Leetcode-problems/tree/master/0463-island-perimeter) |
 | [0867-transpose-matrix](https://github.com/prashantpkg777-blip/Leetcode-problems/tree/master/0867-transpose-matrix) |
 | [2643-row-with-maximum-ones](https://github.com/prashantpkg777-blip/Leetcode-problems/tree/master/2643-row-with-maximum-ones) |
+| [2965-find-missing-and-repeated-values](https://github.com/prashantpkg777-blip/Leetcode-problems/tree/master/2965-find-missing-and-repeated-values) |
 ## Simulation
 |  |
 | ------- |
@@ -129,6 +132,7 @@
 | [0066-plus-one](https://github.com/prashantpkg777-blip/Leetcode-problems/tree/master/0066-plus-one) |
 | [0069-sqrtx](https://github.com/prashantpkg777-blip/Leetcode-problems/tree/master/0069-sqrtx) |
 | [0189-rotate-array](https://github.com/prashantpkg777-blip/Leetcode-problems/tree/master/0189-rotate-array) |
+| [2965-find-missing-and-repeated-values](https://github.com/prashantpkg777-blip/Leetcode-problems/tree/master/2965-find-missing-and-repeated-values) |
 ## Binary Search
 |  |
 | ------- |
