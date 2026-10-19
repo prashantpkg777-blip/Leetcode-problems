@@ -121,6 +121,7 @@
 |  |
 | ------- |
 | [0054-spiral-matrix](https://github.com/prashantpkg777-blip/Leetcode-problems/tree/master/0054-spiral-matrix) |
+| [0258-add-digits](https://github.com/prashantpkg777-blip/Leetcode-problems/tree/master/0258-add-digits) |
 | [0682-baseball-game](https://github.com/prashantpkg777-blip/Leetcode-problems/tree/master/0682-baseball-game) |
 | [0867-transpose-matrix](https://github.com/prashantpkg777-blip/Leetcode-problems/tree/master/0867-transpose-matrix) |
 | [1910-remove-all-occurrences-of-a-substring](https://github.com/prashantpkg777-blip/Leetcode-problems/tree/master/1910-remove-all-occurrences-of-a-substring) |
@@ -132,6 +133,7 @@
 | [0066-plus-one](https://github.com/prashantpkg777-blip/Leetcode-problems/tree/master/0066-plus-one) |
 | [0069-sqrtx](https://github.com/prashantpkg777-blip/Leetcode-problems/tree/master/0069-sqrtx) |
 | [0189-rotate-array](https://github.com/prashantpkg777-blip/Leetcode-problems/tree/master/0189-rotate-array) |
+| [0258-add-digits](https://github.com/prashantpkg777-blip/Leetcode-problems/tree/master/0258-add-digits) |
 | [2235-add-two-integers](https://github.com/prashantpkg777-blip/Leetcode-problems/tree/master/2235-add-two-integers) |
 | [2965-find-missing-and-repeated-values](https://github.com/prashantpkg777-blip/Leetcode-problems/tree/master/2965-find-missing-and-repeated-values) |
 ## Binary Search
@@ -203,4 +205,8 @@
 |  |
 | ------- |
 | [1985-find-the-kth-largest-integer-in-the-array](https://github.com/prashantpkg777-blip/Leetcode-problems/tree/master/1985-find-the-kth-largest-integer-in-the-array) |
+## Number Theory
+|  |
+| ------- |
+| [0258-add-digits](https://github.com/prashantpkg777-blip/Leetcode-problems/tree/master/0258-add-digits) |
 <!---LeetCode Topics End-->
