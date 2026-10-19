@@ -132,6 +132,7 @@
 | [0066-plus-one](https://github.com/prashantpkg777-blip/Leetcode-problems/tree/master/0066-plus-one) |
 | [0069-sqrtx](https://github.com/prashantpkg777-blip/Leetcode-problems/tree/master/0069-sqrtx) |
 | [0189-rotate-array](https://github.com/prashantpkg777-blip/Leetcode-problems/tree/master/0189-rotate-array) |
+| [2235-add-two-integers](https://github.com/prashantpkg777-blip/Leetcode-problems/tree/master/2235-add-two-integers) |
 | [2965-find-missing-and-repeated-values](https://github.com/prashantpkg777-blip/Leetcode-problems/tree/master/2965-find-missing-and-repeated-values) |
 ## Binary Search
 |  |
