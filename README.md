@@ -98,6 +98,7 @@
 | ------- |
 | [0053-maximum-subarray](https://github.com/prashantpkg777-blip/Leetcode-problems/tree/master/0053-maximum-subarray) |
 | [0169-majority-element](https://github.com/prashantpkg777-blip/Leetcode-problems/tree/master/0169-majority-element) |
+| [0190-reverse-bits](https://github.com/prashantpkg777-blip/Leetcode-problems/tree/master/0190-reverse-bits) |
 | [0240-search-a-2d-matrix-ii](https://github.com/prashantpkg777-blip/Leetcode-problems/tree/master/0240-search-a-2d-matrix-ii) |
 | [1985-find-the-kth-largest-integer-in-the-array](https://github.com/prashantpkg777-blip/Leetcode-problems/tree/master/1985-find-the-kth-largest-integer-in-the-array) |
 ## Dynamic Programming
@@ -209,4 +210,8 @@
 |  |
 | ------- |
 | [0258-add-digits](https://github.com/prashantpkg777-blip/Leetcode-problems/tree/master/0258-add-digits) |
+## Bit Manipulation
+|  |
+| ------- |
+| [0190-reverse-bits](https://github.com/prashantpkg777-blip/Leetcode-problems/tree/master/0190-reverse-bits) |
 <!---LeetCode Topics End-->
