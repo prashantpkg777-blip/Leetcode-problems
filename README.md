@@ -53,6 +53,7 @@
 | [0560-subarray-sum-equals-k](https://github.com/prashantpkg777-blip/Leetcode-problems/tree/master/0560-subarray-sum-equals-k) |
 | [0567-permutation-in-string](https://github.com/prashantpkg777-blip/Leetcode-problems/tree/master/0567-permutation-in-string) |
 | [0575-distribute-candies](https://github.com/prashantpkg777-blip/Leetcode-problems/tree/master/0575-distribute-candies) |
+| [1832-check-if-the-sentence-is-pangram](https://github.com/prashantpkg777-blip/Leetcode-problems/tree/master/1832-check-if-the-sentence-is-pangram) |
 | [2965-find-missing-and-repeated-values](https://github.com/prashantpkg777-blip/Leetcode-problems/tree/master/2965-find-missing-and-repeated-values) |
 | [3731-find-missing-elements](https://github.com/prashantpkg777-blip/Leetcode-problems/tree/master/3731-find-missing-elements) |
 | [3843-first-element-with-unique-frequency](https://github.com/prashantpkg777-blip/Leetcode-problems/tree/master/3843-first-element-with-unique-frequency) |
@@ -183,6 +184,7 @@
 | [0567-permutation-in-string](https://github.com/prashantpkg777-blip/Leetcode-problems/tree/master/0567-permutation-in-string) |
 | [1047-remove-all-adjacent-duplicates-in-string](https://github.com/prashantpkg777-blip/Leetcode-problems/tree/master/1047-remove-all-adjacent-duplicates-in-string) |
 | [1662-check-if-two-string-arrays-are-equivalent](https://github.com/prashantpkg777-blip/Leetcode-problems/tree/master/1662-check-if-two-string-arrays-are-equivalent) |
+| [1832-check-if-the-sentence-is-pangram](https://github.com/prashantpkg777-blip/Leetcode-problems/tree/master/1832-check-if-the-sentence-is-pangram) |
 | [1910-remove-all-occurrences-of-a-substring](https://github.com/prashantpkg777-blip/Leetcode-problems/tree/master/1910-remove-all-occurrences-of-a-substring) |
 | [1985-find-the-kth-largest-integer-in-the-array](https://github.com/prashantpkg777-blip/Leetcode-problems/tree/master/1985-find-the-kth-largest-integer-in-the-array) |
 ## Greedy
