@@ -15,6 +15,7 @@
 | [0040-combination-sum-ii](https://github.com/prashantpkg777-blip/Leetcode-problems/tree/master/0040-combination-sum-ii) |
 | [0046-permutations](https://github.com/prashantpkg777-blip/Leetcode-problems/tree/master/0046-permutations) |
 | [0048-rotate-image](https://github.com/prashantpkg777-blip/Leetcode-problems/tree/master/0048-rotate-image) |
+| [0051-n-queens](https://github.com/prashantpkg777-blip/Leetcode-problems/tree/master/0051-n-queens) |
 | [0053-maximum-subarray](https://github.com/prashantpkg777-blip/Leetcode-problems/tree/master/0053-maximum-subarray) |
 | [0054-spiral-matrix](https://github.com/prashantpkg777-blip/Leetcode-problems/tree/master/0054-spiral-matrix) |
 | [0066-plus-one](https://github.com/prashantpkg777-blip/Leetcode-problems/tree/master/0066-plus-one) |
@@ -244,6 +245,11 @@
 | [0039-combination-sum](https://github.com/prashantpkg777-blip/Leetcode-problems/tree/master/0039-combination-sum) |
 | [0040-combination-sum-ii](https://github.com/prashantpkg777-blip/Leetcode-problems/tree/master/0040-combination-sum-ii) |
 | [0046-permutations](https://github.com/prashantpkg777-blip/Leetcode-problems/tree/master/0046-permutations) |
+| [0051-n-queens](https://github.com/prashantpkg777-blip/Leetcode-problems/tree/master/0051-n-queens) |
 | [0078-subsets](https://github.com/prashantpkg777-blip/Leetcode-problems/tree/master/0078-subsets) |
 | [0216-combination-sum-iii](https://github.com/prashantpkg777-blip/Leetcode-problems/tree/master/0216-combination-sum-iii) |
+## Algorithm X
+|  |
+| ------- |
+| [0051-n-queens](https://github.com/prashantpkg777-blip/Leetcode-problems/tree/master/0051-n-queens) |
 <!---LeetCode Topics End-->
