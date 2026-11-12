@@ -11,6 +11,7 @@
 | [0026-remove-duplicates-from-sorted-array](https://github.com/prashantpkg777-blip/Leetcode-problems/tree/master/0026-remove-duplicates-from-sorted-array) |
 | [0033-search-in-rotated-sorted-array](https://github.com/prashantpkg777-blip/Leetcode-problems/tree/master/0033-search-in-rotated-sorted-array) |
 | [0035-search-insert-position](https://github.com/prashantpkg777-blip/Leetcode-problems/tree/master/0035-search-insert-position) |
+| [0037-sudoku-solver](https://github.com/prashantpkg777-blip/Leetcode-problems/tree/master/0037-sudoku-solver) |
 | [0039-combination-sum](https://github.com/prashantpkg777-blip/Leetcode-problems/tree/master/0039-combination-sum) |
 | [0040-combination-sum-ii](https://github.com/prashantpkg777-blip/Leetcode-problems/tree/master/0040-combination-sum-ii) |
 | [0046-permutations](https://github.com/prashantpkg777-blip/Leetcode-problems/tree/master/0046-permutations) |
@@ -55,6 +56,7 @@
 | ------- |
 | [0001-two-sum](https://github.com/prashantpkg777-blip/Leetcode-problems/tree/master/0001-two-sum) |
 | [0017-letter-combinations-of-a-phone-number](https://github.com/prashantpkg777-blip/Leetcode-problems/tree/master/0017-letter-combinations-of-a-phone-number) |
+| [0037-sudoku-solver](https://github.com/prashantpkg777-blip/Leetcode-problems/tree/master/0037-sudoku-solver) |
 | [0169-majority-element](https://github.com/prashantpkg777-blip/Leetcode-problems/tree/master/0169-majority-element) |
 | [0349-intersection-of-two-arrays](https://github.com/prashantpkg777-blip/Leetcode-problems/tree/master/0349-intersection-of-two-arrays) |
 | [0560-subarray-sum-equals-k](https://github.com/prashantpkg777-blip/Leetcode-problems/tree/master/0560-subarray-sum-equals-k) |
@@ -120,6 +122,7 @@
 ## Matrix
 |  |
 | ------- |
+| [0037-sudoku-solver](https://github.com/prashantpkg777-blip/Leetcode-problems/tree/master/0037-sudoku-solver) |
 | [0048-rotate-image](https://github.com/prashantpkg777-blip/Leetcode-problems/tree/master/0048-rotate-image) |
 | [0054-spiral-matrix](https://github.com/prashantpkg777-blip/Leetcode-problems/tree/master/0054-spiral-matrix) |
 | [0074-search-a-2d-matrix](https://github.com/prashantpkg777-blip/Leetcode-problems/tree/master/0074-search-a-2d-matrix) |
@@ -242,6 +245,7 @@
 |  |
 | ------- |
 | [0017-letter-combinations-of-a-phone-number](https://github.com/prashantpkg777-blip/Leetcode-problems/tree/master/0017-letter-combinations-of-a-phone-number) |
+| [0037-sudoku-solver](https://github.com/prashantpkg777-blip/Leetcode-problems/tree/master/0037-sudoku-solver) |
 | [0039-combination-sum](https://github.com/prashantpkg777-blip/Leetcode-problems/tree/master/0039-combination-sum) |
 | [0040-combination-sum-ii](https://github.com/prashantpkg777-blip/Leetcode-problems/tree/master/0040-combination-sum-ii) |
 | [0046-permutations](https://github.com/prashantpkg777-blip/Leetcode-problems/tree/master/0046-permutations) |
@@ -251,5 +255,10 @@
 ## Algorithm X
 |  |
 | ------- |
+| [0037-sudoku-solver](https://github.com/prashantpkg777-blip/Leetcode-problems/tree/master/0037-sudoku-solver) |
 | [0051-n-queens](https://github.com/prashantpkg777-blip/Leetcode-problems/tree/master/0051-n-queens) |
+## Dancing Links
+|  |
+| ------- |
+| [0037-sudoku-solver](https://github.com/prashantpkg777-blip/Leetcode-problems/tree/master/0037-sudoku-solver) |
 <!---LeetCode Topics End-->
